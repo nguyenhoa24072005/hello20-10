@@ -4,4 +4,4 @@ services:
     name: hello20-10
     env: static
     staticSite:
-      publishDir: . # Nếu file HTML nằm ở thư mục này
+      8_3_DAY-MASTER: . # Nếu file HTML nằm ở thư mục này
