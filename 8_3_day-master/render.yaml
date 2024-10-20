@@ -1,0 +1,7 @@
+version: 1
+services:
+  - type: web
+    name: hello20-10
+    env: static
+    staticSite:
+      publishDir: . # Nếu file HTML nằm ở thư mục này
